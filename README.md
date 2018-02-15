@@ -15,6 +15,8 @@
  - leanote一键还原程序1.0（已集成）
  - apt-get install tcl
  - apt-get install expect
+ - python3
+ - py库没有自己装
 
 --- 
 ### **使用方法一**
